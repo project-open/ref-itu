@@ -15,6 +15,7 @@
     </database-support>
         <owner url="mailto:jon@jongriffin.com">Jon Griffin</owner>
         <summary>Telecom Country codes, ITU-T Recommendation E.164 for acs-reference.</summary>
+        <release-date>2016-11-15</release-date>
         <vendor url="http://www.mayuli.com">Mayuli Enterprises, LLC</vendor>
         <description format="text/html">List of ITU-T Recommendation E.164 assigned country codes.</description>
 
